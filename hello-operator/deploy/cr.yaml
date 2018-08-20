@@ -1,0 +1,4 @@
+apiVersion: "hello.dakar.io/v1alpha1"
+kind: "Hello"
+metadata:
+  name: "hello2"
